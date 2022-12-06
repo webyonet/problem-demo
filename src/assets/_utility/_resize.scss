@@ -1,0 +1,6 @@
+@function convert-vw($font-size,  $base-viewport: 1440) {
+    $vw-context: $base-viewport * 0.01 * 1px;
+
+    @return $font-size / $vw-context * 1vw;
+    @return $font-size;
+}

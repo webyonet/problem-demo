@@ -1,0 +1,5 @@
+@mixin os-selector($os-name) {
+    .os-#{$os-name} & {
+        @content;
+    }
+}

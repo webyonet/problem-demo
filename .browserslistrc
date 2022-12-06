@@ -1,0 +1,7 @@
+[production]
+last 15 Chrome versions
+last 20 Safari versions
+
+[development]
+last 2 Chrome versions
+last 5 Safari versions

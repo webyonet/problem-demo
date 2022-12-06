@@ -1,0 +1,11 @@
+.idea
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+src/assets/styles/css/*
+src/assets/fonts/*
+node_modules/
+.fontcustom-manifest.json
+.DS_Store
+build/
